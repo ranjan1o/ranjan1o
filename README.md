@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Full stack web development &  Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
