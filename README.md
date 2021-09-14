@@ -1,4 +1,4 @@
-<a href="#"><img width="100%"height="300px"  src="https://media-exp1.licdn.com/dms/image/C5603AQFAFE7rKv0WZw/profile-displayphoto-shrink_800_800/0/1631628490264?e=1637193600&v=beta&t=rW58bJbZVgr1ioWUQdgYREWlLEAwBkGD5wnCGYwEJOc" height="175px" /></a>
+<a href="#"><img width="100%" height="300px"  src="https://media-exp1.licdn.com/dms/image/C5603AQFAFE7rKv0WZw/profile-displayphoto-shrink_800_800/0/1631628490264?e=1637193600&v=beta&t=rW58bJbZVgr1ioWUQdgYREWlLEAwBkGD5wnCGYwEJOc" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ranjan Giri</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
